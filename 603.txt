@@ -252,9 +252,9 @@ Woodstock
 // Sports
 Monarchs
 Fisher Cats
-NH Roller Derby
+Roller Derby
 Phantoms
-NHMS
+NH Motor Speedway
 Magic Mile
 Wildcats
 
@@ -287,85 +287,7 @@ Anheuser-Busch Brewery
 USS Albacore
 Isles of Shoals
 
-
-
-
-
-// Notable names
-Sandy Alomar
-Jim Backus
-Halle Berry
-Jim Brown
-Paul Brown
-Eric Carmen
-Drew Carey
-Tracy Chapman
-Tim Conway
-Wes Craven
-Dorothy Dandridge
-Brad Daugherty
-Ruby Dee
-Doug Dieken
-Phil Donahue
-Harlan Ellison
-Major Everett
-Bob Feller
-James A. Garfield
-Ghoulardi
-Bob Golic
-Mike Golic
-Joel Grey
-Arsenio Hall
-Margaret Hamilton
-Steve Harvey
-Patricia Heaton
-Anne Heche
-John W. Heisman
-Hal Holbrook
-Bob Hope
-Langston Hughes
-Chrissie Hynde
-LeBron James
-Philip Johnson
-Sammy Kaye
-Don King
-Bobby Knight
-Bernie Kosar
-Dennis Kucinich
-Peter B. Lewis
-Kenny Lofton
-Jim Lovell
-Henry Mancini
-Clay Mathews
-Burgess Meredith
-Eric Metcalf
-Toni Morrison
-Mark Mothersbaugh
-Paul Newman
-Urban Meyer
-Ozzie Newsome
-Andre Norton
-Jesse Owens
-Harvey Pekar
-Mark Price
-John D. Rockefeller
-Michael Ruhlman
-Screamin’ Jay Hawkins
-Molly Shannon
-Sam Sheppard
-Don Shula
-Joe Shuster
-Jerry Siegel
-Michael Stanley
-SuperHost
-George Steinbrenner
-Carl B. Stokes
-Michael Symon
-Jim Tressel
-Omar Vizquel
-George Voinovich
-Lew Wasserman
-Debra Winger
-Fred Willard
-Frank Yankovic
-Roger Zelazny
+// Phrases
+live free or die
+in the 603
+New Hampshire native
